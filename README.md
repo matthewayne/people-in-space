@@ -1,6 +1,8 @@
 # People in Space for the Google Assistant
 This is the code powering the Google Assistant app "People in space" which use's [Nathan Bergey](https://twitter.com/natronics)'s [Open Notify's People in Space API](http://open-notify.org/Open-Notify-API/People-In-Space/) to determine how many people are in space.
 
+To read about a play by play of how it was built (including some embarassing mistakes) in 50min checkout [this blog post](https://matthewayne.com/).
+
 ## Try it out
 Say `Talk to people in space` to any Google Assistant device
 
