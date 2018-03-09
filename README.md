@@ -7,7 +7,7 @@ Say `Talk to people in space` to any Google Assistant device
 ## Dialogflow setup
 1. [Sign up for or sign into Dialogflow](https://console.dialogflow.com/api-client/#/login)
 1. [Create a Dialogflow agent](https://dialogflow.com/docs/getting-started/building-your-first-agent#create_an_agent)
-1. [Restore the zip file `PeopleInSpace.zip`](https://dialogflow.com/docs/agents#export_and_import)
+1. [Restore the zip file `people-in-space.zip`](https://dialogflow.com/docs/agents#export_and_import)
 
 ## Fulfillment Setup: Dialogflow Inline Editor (option 1)
 
